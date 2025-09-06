@@ -61,12 +61,14 @@
 ### 8. Расчет экономической эффективности:
 
 Навык расчета ключевых инвестиционных показателей: NPV (Чистая приведенная стоимость), DPP (Дисконтированный срок окупаемости), IRR (Внутренняя норма доходности), PI (Индекс прибыльности).
-[Вычисления](https://github.com/Nadezhda2024/The-business-analysis-project/blob/main/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8.xlsx)
+[Вычисления](https://docs.google.com/spreadsheets/d/1q766aZbDTJO8MJrtsEKXaGOzJjxcRtYHK2efOz9Iz2E/edit?usp=sharing)
+
 Умение интерпретировать полученные результаты для оценки целесообразности проекта.
 
 ### 9. Презентация и защита инициатив:
 Планирование этапности внедрения
 [Результат](https://github.com/Nadezhda2024/The-business-analysis-project/blob/main/%D0%AD%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B2%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%D0%BD%D0%B8%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D1%8B.pdf)
+
 Навык подготовки структурированной презентации для защиты проекта, включающей обоснование, анализ изменений, расчет экономики и рисков.
 [Результат](https://github.com/Nadezhda2024/The-business-analysis-project/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B8%D0%BD%D0%B8%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2.pdf)
 []()
